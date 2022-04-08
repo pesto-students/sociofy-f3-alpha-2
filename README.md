@@ -1,6 +1,7 @@
  # Sociofy
  ![alt text](https://res.cloudinary.com/drcpultl3/image/upload/v1649396405/logo_white_s_m9rrkw.png)
-A social media web application that provides ease of connecting people to other users with
+
+##A social media web application that provides ease of connecting people to other users with
 simple user interface and lots of features including messaging service in our highly safe
 platform.
 
